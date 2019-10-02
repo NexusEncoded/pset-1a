@@ -1,7 +1,24 @@
-h2 {
-    text-decoration: underline;
+* {
+  margin : 999;
+  padding : 12;
+
+}
+ h1{
+  border: 3px grey solid;
+  border-radius: 0px;
+  border-image: url(basketball.png) 30 round;
+
+
 }
 
-h3 {
-    text-decoration: underline;
+
+
+.footer {
+  position:sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+ <-- background-color: pink; -->
+  color: white;
+  text-align: center;
 }

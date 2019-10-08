@@ -1,7 +1,8 @@
 * {
   margin : 999;
   padding : 15;
-
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 25
 
 }
 
@@ -29,6 +30,10 @@ p a:hover {
 }
 [target=_blank] {
   color : red;
+}
+
+.footer > a{
+  font-family : Verdana, Geneva, sans-serif;
 }
 
 .footer {
